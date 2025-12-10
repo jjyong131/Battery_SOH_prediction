@@ -1,5 +1,5 @@
 # Oxford Multi-Window IC Reconstruction & SOH Prediction Pipeline
-IC (Incremental Capacity) Multi-Window Reconstruction + Multi-Stage SOH Prediction
+IC (Incremental Capacity) Multi-Window Reconstruction +  SOH Prediction
 English Overview
 
 This repository provides a complete 2-stage machine learning pipeline for the Oxford Battery Degradation Dataset:
@@ -167,10 +167,25 @@ python soh_prediction/soh_cnn_lstm_model.py
 📊 Output Examples
 Reconstructed IC vs Ground Truth
 
+<p align="center">
+  <img src="images/iccurve_pred.png" width="75%">
+</p>
+
+The figure above shows:
+- IC curve prediction
+
+---
+
 📈 Results — Model Prediction Example
 
+<p align="center">
+  <img src="images/sohpred.png" width="75%">
+</p>
 
+The figure above shows:
+- SOH prediction by reconstructing icc curve from multiwindows
 
+---
 🙌 Contributors
 
 Jeong-Yong Shin — Research + Full implementation
