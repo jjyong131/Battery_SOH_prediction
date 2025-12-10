@@ -18,6 +18,7 @@ It is designed for research use on NASA battery aging datasets and supports easy
 ---
 
 # 📁 Project Structure
+.
 ├── cc_preprocess.py
 ├── cc_reconstruct_model.py
 ├── cc_soh_preprocess.py
@@ -42,7 +43,7 @@ This repository **does not include** the raw NASA battery dataset.
 You must download it manually:
 
 🔗 NASA Battery Aging Dataset  
-https://data.nasa.gov/dataset/Battery-Aging-Dataset/uj5r-zjdb
+[https://data.nasa.gov/dataset/Battery-Aging-Dataset/uj5r-zjdb](https://data.nasa.gov/dataset/li-ion-battery-aging-datasets)
 
 Place the files (e.g., `B0005.csv`, `B0006.csv`, …) into the `data/` directory.
 
