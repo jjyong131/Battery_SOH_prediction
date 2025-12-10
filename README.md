@@ -168,7 +168,7 @@ Feel free to ignore *NASA.py* unless you want to check the raw research process.
 # 🙌 Contributors
 
 - **Jeong-Yong Shin** — Research + Full implementation  
-- Assisted by ChatGPT (AI pair-programming)
+- Assisted by ChatGPT&Gemini (AI pair-programming)
 
 
 
