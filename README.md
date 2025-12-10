@@ -125,7 +125,7 @@ Place the files (e.g., `B0005.csv`, `B0006.csv`, …) into the `data/` directory
 ### 🔹 CC Curve Reconstruction + SOH Prediction (Cycle #5 Example)
 
 <p align="center">
-  <img src="images/cc_curve_soh_#5.png" width="75%">
+  <img src="images/cc_curve_soh_5.png" width="75%">
 </p>
 
 The figure above shows:
