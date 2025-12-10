@@ -145,6 +145,24 @@ The figure above shows:
 ---
 
 
+---
+
+## 📝 Note on NASA.py
+
+The file **NASA.py** included in this repository is **raw experimental code written in Google Colab** during early development.  
+It contains exploratory preprocessing, plotting, and experimental model tests used before the final modular pipeline was created.
+
+- It is **not part of the final CC/IC/SOH pipeline**
+- It remains in the repository for **reference and reproducibility**
+- All finalized code has been refactored into:
+  - `cc_preprocess.py`, `cc_reconstruct_model.py`, `cc_soh_preprocess.py`, `cc_soh_model.py`
+  - `ic_preprocess.py`, `ic_reconstruct_model.py`, `ic_soh_preprocess.py`, `ic_soh_model.py`
+
+Feel free to ignore *NASA.py* unless you want to check the raw research process.
+
+---
+
+
 
 
 # 🙌 Contributors
