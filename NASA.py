@@ -91,7 +91,7 @@ from tensorflow.keras.layers import Add,Input, Conv1D, Flatten, Dense, Dropout,B
 from tensorflow.keras.callbacks import EarlyStopping
 from tensorflow.keras.optimizers import Adam,RMSprop,Nadam,AdamW
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-#!pip install keras-tuner
+!pip install keras-tuner
 #from keras_tuner import RandomSearch
 # 1. 파일 경로 및 배터리ID 매핑
 file_map = {
