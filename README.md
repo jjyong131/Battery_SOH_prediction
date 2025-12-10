@@ -117,6 +117,27 @@ Place the files (e.g., `B0005.csv`, `B0006.csv`, …) into the `data/` directory
 
 ---
 
+
+---
+
+# 📈 Results — Model Prediction Example
+
+### 🔹 CC Curve Reconstruction + SOH Prediction (Cycle #5 Example)
+
+<p align="center">
+  <img src="images/cc_curve_soh_#5.png" width="75%">
+</p>
+
+The figure above shows:
+- **Reconstructed CC voltage curve** from partial inputs  
+- **True vs Predicted SOH trend** for the chosen cycle  
+- Demonstrates high agreement between measured and reconstructed features  
+
+---
+
+
+
+
 # 🙌 Contributors
 
 - **Jeong-Yong Shin** — Research + Full implementation  
